@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-我是北京航空航天大学的一名博士研究生，一级学科为控制科学与工程，二级学科为模式识别与智能系统。<br>我的研究方向包括大气层内/外飞行器的导航制导与控制（GNC）、任务规划、深度学习。<br>预期毕业时间为2027年6月。
+尊敬的领导您好！欢迎来到我的主页~ <br> 我是北京航空航天大学的一名博士研究生，一级学科为控制科学与工程，二级学科为模式识别与智能系统。<br>我的研究方向包括大气层内/外飞行器的导航制导与控制（GNC）、任务规划、深度学习。<br>预期毕业时间为2027年6月。
 
-A data-driven personal website
+教育经历
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
