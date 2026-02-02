@@ -74,7 +74,7 @@ redirect_from:
 排名：<strong>1/69（年级第一）</strong>，
 加权平均成绩：<strong>95.14 / 100</strong>
 <br>
-核心课程：人工智能(<strong>100</strong>)
+核心课程：人工智能 (<strong>100</strong>)
 </li>
 
 </ul>
