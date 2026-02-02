@@ -17,10 +17,8 @@ redirect_from:
 <li>
 <strong>2023.09 – 2027.06</strong>,
 博士，
-<a href="https://www.hust.edu.cn/" target="_blank">
-  <img class="svg" src="/images/HUST_logo.svg" width="23pt">
-  北京航空航天大学
-</a>，
+<img class="svg" src="/images/HUST_logo.svg" width="23pt">
+北京航空航天大学，
 宇航学院，
 控制科学与工程，
 排名：年级第一
@@ -29,10 +27,8 @@ redirect_from:
 <li>
 <strong>2021.09 – 2023.06</strong>,
 硕士，
-<a href="https://www.scu.edu.cn/" target="_blank">
-  <img class="svg" src="/images/SCU_logo.svg" width="20pt">
-  北京航空航天大学
-</a>，
+<img class="svg" src="/images/SCU_logo.svg" width="20pt">
+北京航空航天大学，
 宇航学院，
 航空宇航科学与技术，
 排名：前5%
@@ -41,10 +37,8 @@ redirect_from:
 <li>
 <strong>2017.09 – 2021.06</strong>,
 本科，
-<a href="https://www.scu.edu.cn/" target="_blank">
-  <img class="svg" src="/images/SCU_logo.svg" width="20pt">
-  天津大学
-</a>，
+<img class="svg" src="/images/SCU_logo.svg" width="20pt">
+天津大学，
 自动化学院，
 自动化，
 排名：班级第一
