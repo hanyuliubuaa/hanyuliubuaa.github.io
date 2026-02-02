@@ -15,27 +15,39 @@ redirect_from:
 <ul>
 
 <li>
-<strong>2018.09 – 2022.12</strong>,
+<strong>2023.09 – 2027.06</strong>,
 博士，
 <a href="https://www.hust.edu.cn/" target="_blank">
   <img class="svg" src="/images/HUST_logo.svg" width="23pt">
-  华中科技大学
+  北京航空航天大学
 </a>，
-机械科学与工程学院，
-机械工程，
-排名：前10%
+宇航学院，
+控制科学与工程，
+排名：年级第一
 </li>
 
 <li>
-<strong>2014.09 – 2018.06</strong>,
+<strong>2021.09 – 2023.06</strong>,
+硕士，
+<a href="https://www.scu.edu.cn/" target="_blank">
+  <img class="svg" src="/images/SCU_logo.svg" width="20pt">
+  北京航空航天大学
+</a>，
+宇航学院，
+航空宇航科学与技术，
+排名：前5%
+</li>
+
+<li>
+<strong>2017.09 – 2021.06</strong>,
 本科，
 <a href="https://www.scu.edu.cn/" target="_blank">
   <img class="svg" src="/images/SCU_logo.svg" width="20pt">
-  四川大学
+  天津大学
 </a>，
-制造科学与工程学院，
-机械设计制造及其自动化，
-排名：前15%
+自动化学院，
+自动化，
+排名：班级第一
 </li>
 
 </ul>
