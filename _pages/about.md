@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "航天和AI我都喜欢，项目和学术我都擅长"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-我是北京航空航天大学的一名博士研究生
+我是北京航空航天大学的一名博士研究生，一级学科为控制科学与工程，二级学科为模式识别与智能系统。<br>我的研究方向包括大气层内/外飞行器的导航制导与控制（GNC）、任务规划、深度学习。
 
 A data-driven personal website
 ======
