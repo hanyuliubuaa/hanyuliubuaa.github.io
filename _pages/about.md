@@ -49,6 +49,36 @@ redirect_from:
 
 </ul>
 
+<h2>📊 学习成绩</h2>
+
+<ul>
+
+<li>
+<strong>本科</strong>，
+排名：<strong>班级第一</strong>，
+加权平均成绩：<strong>90.3 / 100</strong>
+<br>
+核心课程：自动控制原理、现代控制理论、信号与系统、嵌入式系统、计算机控制系统
+</li>
+
+<li>
+<strong>硕士</strong>，
+排名：<strong>前 5%</strong>，
+加权平均成绩：<strong>91.8 / 100</strong>
+<br>
+核心课程：最优控制、鲁棒控制、非线性系统、飞行器动力学与控制、智能控制
+</li>
+
+<li>
+<strong>博士</strong>，
+排名：<strong>年级第一</strong>，
+加权平均成绩：<strong>93.5 / 100</strong>
+<br>
+核心课程：高级控制理论、最优与学习控制、智能系统理论、飞行器导航制导与控制
+</li>
+
+</ul>
+
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
