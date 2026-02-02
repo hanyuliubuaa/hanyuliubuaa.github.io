@@ -79,6 +79,25 @@ redirect_from:
 
 </ul>
 
+<h2>🔗 快速链接</h2>
+<ul>
+<li>
+学术成果：介绍了我发表的论文及专利，展现了我的创新能力、数学功底以及严谨性。
+</li>
+<li>
+项目经历：介绍了我负责和参与的10个项目，展示了我的工程能力、统筹能力以及成果展示能力。
+</li>
+<li>
+荣誉奖励：介绍了我所获得的各项奖励，展示了我在学校的优异表现。
+</li>
+<li>
+掌握技能：介绍了我擅长的工作所需的各项技能，展示了我能胜任所求职工作的基础。
+</li>
+<li>
+学生工作：介绍了我的学生工作经历，展示了我的沟通能力与组织能力。
+</li>
+</ul>
+
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
