@@ -15,10 +15,10 @@ main:
     url: /projects/    
 
   - title: "荣誉奖励"
-    url: /honor/    
+    url: /honors/    
     
   - title: "掌握技能"
     url: /skills/
         
   - title: "学生工作"
-    url: /studentwork/
+    url: /service/
