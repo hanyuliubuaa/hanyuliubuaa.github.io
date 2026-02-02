@@ -28,7 +28,7 @@ redirect_from:
 北京航空航天大学，
 宇航学院，
 控制科学与工程，
-<strong>年级第一<strong>
+<strong>年级第一</strong>
 </li>
 
 <li>
@@ -37,7 +37,7 @@ redirect_from:
 北京航空航天大学，
 宇航学院，
 航空宇航科学与技术，
-<strong>前5%<strong>
+<strong>前5%</strong>
 </li>
 
 <li>
@@ -46,7 +46,7 @@ redirect_from:
 天津大学，
 自动化学院，
 自动化，
-<strong>班级第一<strong>
+<strong>班级第一</strong>
 </li>
 
 </ul>
