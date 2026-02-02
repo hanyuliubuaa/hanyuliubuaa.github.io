@@ -54,27 +54,27 @@ redirect_from:
 <ul>
 
 <li>
-<strong>本科</strong>，
-排名：<strong>班级第一</strong>，
-加权平均成绩：<strong>90.3 / 100</strong>
+本科，
+排名：<strong>1/32（班级第一）</strong>，
+加权平均成绩：<strong>91.73 / 100</strong>
 <br>
-核心课程：自动控制原理、现代控制理论、信号与系统、嵌入式系统、计算机控制系统
+核心课程：高等数学(<strong>100</strong>)、线性代数及其应用(<strong>99</strong>)、模拟电子技术基础(98)、信号分析与处理(97)、自动控制原理(91)
 </li>
 
 <li>
-<strong>硕士</strong>，
-排名：<strong>前 5%</strong>，
-加权平均成绩：<strong>91.8 / 100</strong>
+硕士，
+排名：<strong>6/140 （前5%）</strong>，
+加权平均成绩：<strong>91.59 / 100</strong>
 <br>
-核心课程：最优控制、鲁棒控制、非线性系统、飞行器动力学与控制、智能控制
+核心课程：数值分析(91)、航天任务分析与系统设计(95)、导弹制导原理(93)、GPS与北斗导航定位(93)、轨道力学与轨道设计(92)
 </li>
 
 <li>
-<strong>博士</strong>，
-排名：<strong>年级第一</strong>，
-加权平均成绩：<strong>93.5 / 100</strong>
+博士，
+排名：<strong>1/69（年级第一）</strong>，
+加权平均成绩：<strong>95.14 / 100</strong>
 <br>
-核心课程：高级控制理论、最优与学习控制、智能系统理论、飞行器导航制导与控制
+核心课程：人工智能(<strong>100</strong>)
 </li>
 
 </ul>
