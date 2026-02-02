@@ -11,10 +11,35 @@ redirect_from:
 
 教育经历
 ======
-| 时间 | 学历 | 学校 | 学院 | 专业 | 排名 |
-|------|------|------|------|------|------|
-| 2021.09 – 2025.06 | 本科 | XX大学 | 信息工程学院 | 计算机科学与技术 | 5 / 120 |
-| 2025.09 – 2028.06 | 硕士 | XX大学 | 人工智能学院 | 人工智能 | 3 / 60 |
+<h2>🎓 教育经历</h2>
+
+<ul>
+
+<li>
+<strong>2018.09 – 2022.12</strong>,
+博士，
+<a href="https://www.hust.edu.cn/" target="_blank">
+  <img class="svg" src="/images/HUST_logo.svg" width="23pt">
+  华中科技大学
+</a>，
+机械科学与工程学院，
+机械工程，
+排名：前10%
+</li>
+
+<li>
+<strong>2014.09 – 2018.06</strong>,
+本科，
+<a href="https://www.scu.edu.cn/" target="_blank">
+  <img class="svg" src="/images/SCU_logo.svg" width="20pt">
+  四川大学
+</a>，
+制造科学与工程学院，
+机械设计制造及其自动化，
+排名：前15%
+</li>
+
+</ul>
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
