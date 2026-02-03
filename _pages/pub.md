@@ -8,11 +8,29 @@ author_profile: true
 
 <h2>期刊论文</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='/images/skew.JPG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/skew.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
 
-</div>
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      <strong>Jian Tang</strong>, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang.<br>
+      <em>Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer.</em><br>
+      <em>Sensors</em>, 2022, 22(9): 3587.
+      (JCR: Q2; IF: 3.847)
+    </p>
+
+    <p>
+      <a href="https://dx.doi.org/10.3390/s22093587">[HTML]</a>
+      <a href="https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf">[Preview]</a>
+      <a href="/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf">[PDF]</a>
+    </p>
+
+  </div>
+
 </div>
