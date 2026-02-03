@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "项目经历"
+title: "🛠️项目经历"
 author_profile: true
 ---
 
