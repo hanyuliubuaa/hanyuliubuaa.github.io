@@ -85,27 +85,27 @@ redirect_from:
 <ul>
 
 <li>
-<a href="/publications/"><strong>学术成果</strong></a>：
+📄<a href="/publications/"><strong>学术成果</strong></a>：
 介绍了我发表的论文及专利，展现了我的创新能力、数学功底以及严谨性。
 </li>
 
 <li>
-<a href="/projects/"><strong>项目经历</strong></a>：
+🛠️<a href="/projects/"><strong>项目经历</strong></a>：
 介绍了我负责和参与的 10 个项目，展示了我的工程能力、统筹能力以及报告撰写与成果展示能力。
 </li>
 
 <li>
-<a href="/honors/"><strong>荣誉奖励</strong></a>：
+🏆<a href="/honors/"><strong>荣誉奖励</strong></a>：
 介绍了我所获得的各项奖励，展示了我在学校的优异表现。
 </li>
 
 <li>
-<a href="/skills/"><strong>掌握技能</strong></a>：
+🎯<a href="/skills/"><strong>掌握技能</strong></a>：
 介绍了我擅长的各项技能，展示了我能胜任所求职工作的基础能力。
 </li>
 
 <li>
-<a href="/service/"><strong>学生工作</strong></a>：
+🧑‍🤝‍🧑<a href="/service/"><strong>学生工作</strong></a>：
 介绍了我的学生工作经历，展示了我的沟通能力与组织能力。
 </li>
 
