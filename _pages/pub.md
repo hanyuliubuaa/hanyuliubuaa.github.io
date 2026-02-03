@@ -32,12 +32,13 @@ author_profile: true
   </div>
 
 </div>
+本文提出了首个非高斯无迹卡尔曼滤波，利用三阶中心矩信息构造非高斯分布，克服了传统算法的高斯假设对估计精度带来的限制。飞行器目标跟踪场景的位置估计误差降低17.55%。
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 35%;">
-    <img src="/images/skew.JPG" alt="sym" style="width: 100%; height: auto;">
+    <img src="/images/MaxUKF.JPG" alt="sym" style="width: 100%; height: auto;">
   </div>
 
   <!-- 右侧文字 -->
@@ -57,3 +58,4 @@ author_profile: true
   </div>
 
 </div>
+本文提出了首个利用众数信息的滤波算法，提出了众数随非线性变换的准确传播定理，改进了基于确定性采样的非线性卡尔曼滤波的估计精度。飞行器目标跟踪场景的位置估计误差降低10.56%，飞行器自主导航场景的位置估计误差降低17.93%。
