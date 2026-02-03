@@ -9,7 +9,7 @@
 
 main:
   - title: "学术成果"
-    url: /publications/
+    url: /pub/
 
   - title: "项目经历"
     url: /projects/    
