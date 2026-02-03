@@ -33,6 +33,7 @@ author_profile: true
 
 </div>
 本文提出了首个非高斯无迹卡尔曼滤波，利用三阶中心矩信息构造非高斯分布，克服了传统算法的高斯假设对估计精度带来的限制。飞行器目标跟踪场景的位置估计误差降低17.55%。
+<hr>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 5px;">
 
