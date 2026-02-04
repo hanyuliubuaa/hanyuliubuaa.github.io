@@ -176,3 +176,27 @@ author_profile: true
 </div>
 本文为我国低轨导航增强卫星设计了广播星历，相比于传统的中高轨导航卫星所使用的广播星历，本文增加了偏心率变化率参数以降低LEO大气阻力影响，位置拟合误差降低最多50%。
 <hr>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/Thrust.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      Shengzhou Bai, Yuan Wang, <strong>Hanyu Liu</strong>, Xiucong Sun.<br>
+      Finite-thrust lambert transfer based on multistage constant-vector thrust control.<br>
+      <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 59, no. 5, pp. 4947-4967, Oct. 2023.
+      (中文核心)
+    </p>
+
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/10058148/">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文提出了能量最优条件下的航天器变轨多阶段脉冲转有限策略。
+<hr>
