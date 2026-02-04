@@ -238,7 +238,7 @@ author_profile: true
     <p>
       <strong>Hanyu Liu</strong>, Xiucong Sun, Haichao Gui(桂海潮教授，神十六航天员), Han Cai.<br>
       Data-Driven Orbit Determination for Low-Earth Orbit Space Debris Using Ground-Based Measurements.<br>
-      <em> 76th International Astronautical Congress (IAC 2025)</em>, , Sydney, Australia, 29 Sep-3 Oct 2025.
+      <em> 76th International Astronautical Congress (IAC 2025)</em>, Sydney, Australia, 29 Sep-3 Oct 2025.
       (EI)
     </p>
 
