@@ -18,7 +18,7 @@ author_profile: true
   <div style="flex: 1;">
 
     <p>
-      <strong>Hanyu Liu</strong>, Xiucong Sun, Jinghao Yang, Ming Xu（徐明教授，长江学者）, Shengzhou Bai.<br>
+      <strong>Hanyu Liu</strong>, Xiucong Sun, Jinghao Yang, Ming Xu, Shengzhou Bai.<br>
       Skewed Unscented Kalman Filter Using Gaussian Sum.<br>
       <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 61, no. 2, pp. 3917-3935, April 2025.
       (JCR: Q1; IF: 5.7)
