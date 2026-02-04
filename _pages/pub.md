@@ -155,7 +155,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
   <!-- 左侧图片 -->
   <div style="flex: 0 0 35%;">
-    <img src="/images/Space.JPG" alt="sym" style="width: 100%; height: auto;">
+    <img src="/images/Chinese.JPG" alt="sym" style="width: 100%; height: auto;">
   </div>
 
   <!-- 右侧文字 -->
