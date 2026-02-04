@@ -104,3 +104,26 @@ author_profile: true
 </div>
 本文提出了第一个无监督训练（不需要状态真值）的完全基于神经网络（无需任何传统滤波框架）的状态估计方法，也是第一个基于Transformer的滤波方法。无需EKF的线性化假设、UKF的高斯假设、PF的大量粒子，即可实现高精度状态估计。本文方法的估计误差为EKF的32.22%，UKF的77.70%，PF的74.40%，计算效率与UKF相当。
 <hr>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/DeepUKF.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      <strong>Hanyu Liu</strong>, Yuran Chen, Xiucong Sun, Yukai Zhu, Xinlong Wang, Haichao Gui.<br>
+      Finetuning the Sample Points in Gaussian Filters via Neural Networks.<br>
+      <em>IEEE Signal Processing Letters</em>, vol. 33, pp. 371-375, 2026.
+      (JCR: Q2; IF: 3.9)
+    </p>
+
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/11302786/">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文提出了第一个用神经网络生成滤波器采样点的方法，可以提高所有基于确定性采样点的高斯滤波器（UKF，CKF，GHQF等）的估计精度。本文方法可以在不增加计算时间的前提下，将基于确定性采样点的高斯滤波器的估计误差降低5~6%。
