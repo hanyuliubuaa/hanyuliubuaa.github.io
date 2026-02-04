@@ -57,3 +57,28 @@ IEEE TAES 2025
   </div>
 </div>
 本文提出了首个利用众数信息的滤波算法，提出了众数随非线性变换的准确传播定理，改进了基于确定性采样的非线性卡尔曼滤波的估计精度。飞行器目标跟踪场景的位置估计误差降低10.56%，飞行器自主导航场景的位置估计误差降低17.93%。
+<hr>
+AISR 2025
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/MMUKF.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      <strong>Hanyu Liu</strong>, Xinlong Wang, Yujin Zhang, Yuhan Chen, Xiao Li, Shenggang Liu.<br>
+      Mode-matching universal Kalman filter based on closed skew-normal distribution.<br>
+      <em>Advances in Space Research</em>, In Press.
+      (JCR: Q1; IF: 2.8)
+    </p>
+
+    <p>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117725003205">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文改进了上一篇文章中状态概率密度函数的形式，从高斯混合模型变为闭式偏斜正态（CSN）分布，计算效率极大提高。飞行器自主导航场景的计算时间仅为传统无迹卡尔曼滤波的1.05倍，几乎无需增加计算量。
