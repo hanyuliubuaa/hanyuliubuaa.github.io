@@ -189,7 +189,7 @@ author_profile: true
       Shengzhou Bai, Yuan Wang, <strong>Hanyu Liu</strong>, Xiucong Sun.<br>
       Finite-thrust lambert transfer based on multistage constant-vector thrust control.<br>
       <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 59, no. 5, pp. 4947-4967, Oct. 2023.
-      (中文核心)
+      (SCI; JCR: Q1; IF: 5.7)
     </p>
 
     <p>
