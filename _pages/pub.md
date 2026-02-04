@@ -127,3 +127,28 @@ author_profile: true
   </div>
 </div>
 本文提出了第一个用神经网络生成滤波器采样点的方法，可以提高所有基于确定性采样点的高斯滤波器（UKF，CKF，GHQF等）的估计精度。本文方法可以在不增加计算时间的前提下，将基于确定性采样点的高斯滤波器的估计误差降低5~6%。
+<hr>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/Space.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      Han Yan(甲方), <strong>Hanyu Liu</strong>, Xiucong Sun, Ming Xu.<br>
+      Accuracy Evaluation of Marginalized Unscented Kalman Filter.<br>
+      <em>Space: Science & Technology</em>, 2023;3:0085.
+      (JCR: Q1; IF: 6.8)
+    </p>
+
+    <p>
+      <a href="https://spj.science.org/doi/10.34133/space.0085">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文针对传感器存在常值偏差的实际工程问题，分析了边缘无迹卡尔曼滤波的性质，给出了其与标准无迹卡尔曼滤波等价的充分条件，并通过飞行器自主导航场景进行了验证。
+<hr>
