@@ -224,3 +224,31 @@ author_profile: true
 </div>
 本文提出了航天器平行四边形绕飞策略。
 <hr>
+
+<h2>会议论文</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/Oral.jpg" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      <strong>Hanyu Liu</strong>, Xiucong Sun, Haichao Gui, Han Cai.<br>
+      Data-Driven Orbit Determination for Low-Earth Orbit Space Debris Using Ground-Based Measurements.<br>
+      <em> 76th International Astronautical Congress (IAC 2025)</em>, , Sydney, Australia, 29 Sep-3 Oct 2025.
+      (EI)
+    </p>
+
+    <p>
+      <a href="https://doi.org/10.52202/083079-0067">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文首次完全基于深度学习实现了轨道确定，且估计精度超过EKF，UKF，GMF。
+<hr>
+本人在国际宇航大会上对上述论文进行口头汇报（Oral）。
+<img src="/images/IAC.JPG" alt="sym" style="width: 100%; height: auto;">
