@@ -236,7 +236,7 @@ author_profile: true
   <div style="flex: 1;">
 
     <p>
-      <strong>Hanyu Liu</strong>, Xiucong Sun, Haichao Gui, Han Cai.<br>
+      <strong>Hanyu Liu</strong>, Xiucong Sun, Haichao Gui(桂海潮教授，神十六航天员), Han Cai.<br>
       Data-Driven Orbit Determination for Low-Earth Orbit Space Debris Using Ground-Based Measurements.<br>
       <em> 76th International Astronautical Congress (IAC 2025)</em>, , Sydney, Australia, 29 Sep-3 Oct 2025.
       (EI)
@@ -248,7 +248,7 @@ author_profile: true
 
   </div>
 </div>
-本文首次完全基于深度学习实现了轨道确定，且估计精度超过EKF，UKF，GMF。
+本文首次完全基于深度学习实现了轨道确定，且估计精度超过EKF，UKF，GMF。<br>
 本人在国际宇航大会上对上述论文进行口头汇报（Oral）。
 <img src="/images/Oral.jpg" alt="sym" style="width: 100%; height: auto;">
 <hr>
