@@ -200,3 +200,27 @@ author_profile: true
 </div>
 本文提出了能量最优条件下的航天器变轨多阶段脉冲转有限策略。
 <hr>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/ND.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      Shengzhou Bai, Yuan Wang, <strong>Hanyu Liu</strong>, Xiucong Sun.<br>
+      Spacecraft fast fly-around formations design using the parallelogram configuration.<br>
+      <em> Nonlinear Dynamics</em>, 113, 1041–1062 (2025).
+      (SCI; JCR: Q1; IF: 6.0)
+    </p>
+
+    <p>
+      <a href="https://link.springer.com/article/10.1007/s11071-024-10298-3">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文提出了航天器平行四边形绕飞策略。
+<hr>
