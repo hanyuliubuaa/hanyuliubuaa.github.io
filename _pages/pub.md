@@ -229,7 +229,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
   <!-- 左侧图片 -->
   <div style="flex: 0 0 35%;">
-    <img src="/images/IAC.jpg" alt="sym" style="width: 100%; height: auto;">
+    <img src="/images/IAC.JPG" alt="sym" style="width: 100%; height: auto;">
   </div>
 
   <!-- 右侧文字 -->
@@ -249,6 +249,6 @@ author_profile: true
   </div>
 </div>
 本文首次完全基于深度学习实现了轨道确定，且估计精度超过EKF，UKF，GMF。
-<hr>
 本人在国际宇航大会上对上述论文进行口头汇报（Oral）。
-<img src="/images/Oral.JPG" alt="sym" style="width: 100%; height: auto;">
+<img src="/images/Oral.jpg" alt="sym" style="width: 100%; height: auto;">
+<hr>
