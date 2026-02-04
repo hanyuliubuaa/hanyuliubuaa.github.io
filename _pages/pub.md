@@ -138,7 +138,7 @@ author_profile: true
   <div style="flex: 1;">
 
     <p>
-      Han Yan(项目甲方), <strong>Hanyu Liu</strong>, Xiucong Sun, Ming Xu(徐明教授，长江学者).<br>
+      Han Yan(项目甲方), <strong>Hanyu Liu</strong>(学生一作), Xiucong Sun, Ming Xu(徐明教授，长江学者).<br>
       Accuracy Evaluation of Marginalized Unscented Kalman Filter.<br>
       <em>Space: Science & Technology</em>, 2023;3:0085.
       (SCI; JCR: Q1; IF: 6.8)
@@ -151,4 +151,28 @@ author_profile: true
   </div>
 </div>
 本文针对传感器测量存在常值偏差的实际工程问题，分析了边缘无迹卡尔曼滤波的性质，给出了其与标准无迹卡尔曼滤波等价的充分条件，并通过飞行器自主导航场景进行了验证。
+<hr>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 35%;">
+    <img src="/images/Space.JPG" alt="sym" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1;">
+
+    <p>
+      杨开伟(项目甲方), <strong>刘涵宇</strong>(学生一作), 孙腾达，孙秀聪，徐明(长江学者).<br>
+      低轨导航增强卫星广播星历拟合模型研究.<br>
+      <em>航天器工程</em>, 2023,32(04):28-36.
+      (中文核心)
+    </p>
+
+    <p>
+      <a href="https://kns.cnki.net/kcms2/article/abstract?v=MXvIvFkaDQw_XySxA-Okr7CE36CycuRHGcyPxePcy3ReDIDpJHHYKe7lWXDhfT8_h55BwZRTJhG3sAzhaQwTkzfHfx94FpHJoFcHjVIUVTcuOfXl53d45kvc2iMvbX_Mbe53mdAw2MSlfGPB7RikLyxm0wyePejd0mmtVLtiqT0udoxARyFGgQ==&uniplatform=NZKPT&language=CHS">[HTML]</a>
+    </p>
+
+  </div>
+</div>
+本文为我国低轨导航增强卫星设计了广播星历，相比于传统的中高轨导航卫星所使用的广播星历，本文增加了偏心率变化率参数以降低LEO大气阻力影响，位置拟合误差降低最多50%。
 <hr>
