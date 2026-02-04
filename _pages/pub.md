@@ -21,7 +21,7 @@ author_profile: true
       <strong>Hanyu Liu</strong>, Xiucong Sun, Jinghao Yang, Ming Xu(徐明教授，长江学者), Shengzhou Bai.<br>
       Skewed Unscented Kalman Filter Using Gaussian Sum.<br>
       <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 61, no. 2, pp. 3917-3935, April 2025.
-      (JCR: Q1; IF: 5.7)
+      (SCI; JCR: Q1; IF: 5.7)
     </p>
 
     <p>
@@ -45,7 +45,7 @@ author_profile: true
       <strong>Hanyu Liu</strong>, Xiucong Sun, Shengzhou Bai.<br>
       Modified Unscented Kalman Filter Considering Maximum Point of Probability Density Function.<br>
       <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 61, no. 2, pp. 4926-4944, April 2025.
-      (JCR: Q1; IF: 5.7)
+      (SCI; JCR: Q1; IF: 5.7)
     </p>
 
     <p>
@@ -69,7 +69,7 @@ author_profile: true
       <strong>Hanyu Liu</strong>, Xinlong Wang, Yujin Zhang, Yuhan Chen, Xiao Li, Shenggang Liu.<br>
       Mode-matching universal Kalman filter based on closed skew-normal distribution.<br>
       <em>Advances in Space Research</em>, In Press.
-      (JCR: Q1; IF: 2.8)
+      (SCI; JCR: Q1; IF: 2.8)
     </p>
 
     <p>
@@ -93,7 +93,7 @@ author_profile: true
       <strong>Hanyu Liu</strong>, Xiucong Sun, Yuran Chen, Xinlong Wang.<br>
       Physics-Informed Data-Driven Autoregressive Nonlinear Filter.<br>
       <em>IEEE Signal Processing Letters</em>, vol. 32, pp. 846-850, 2025.
-      (JCR: Q2; IF: 3.9)
+      (SCI; JCR: Q2; IF: 3.9)
     </p>
 
     <p>
@@ -117,7 +117,7 @@ author_profile: true
       <strong>Hanyu Liu</strong>, Yuran Chen, Xiucong Sun, Yukai Zhu, Xinlong Wang, Haichao Gui(桂海潮教授，神十六航天员).<br>
       Finetuning the Sample Points in Gaussian Filters via Neural Networks.<br>
       <em>IEEE Signal Processing Letters</em>, vol. 33, pp. 371-375, 2026.
-      (JCR: Q2; IF: 3.9)
+      (SCI; JCR: Q2; IF: 3.9)
     </p>
 
     <p>
@@ -141,7 +141,7 @@ author_profile: true
       Han Yan(项目甲方), <strong>Hanyu Liu</strong>, Xiucong Sun, Ming Xu(徐明教授，长江学者).<br>
       Accuracy Evaluation of Marginalized Unscented Kalman Filter.<br>
       <em>Space: Science & Technology</em>, 2023;3:0085.
-      (JCR: Q1; IF: 6.8)
+      (SCI; JCR: Q1; IF: 6.8)
     </p>
 
     <p>
