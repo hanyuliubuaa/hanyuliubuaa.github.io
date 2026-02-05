@@ -12,5 +12,5 @@ author_profile: true
 <h2>PPT制作</h2>
 <img src="/images/ppt.JPG" alt="sym" style="width: 100%; height: auto;">
 
-<h2>编程（C/Python/Matlab）/h2>
+<h2>编程（C/Python/Matlab）</h2>
 <img src="/images/code.JPG" alt="sym" style="width: 100%; height: auto;">
