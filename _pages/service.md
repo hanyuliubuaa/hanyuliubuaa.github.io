@@ -28,10 +28,10 @@ author_profile: true
     <img src="/images/dang8.png" alt="sym" style="width: 50%; height: auto;">
 <hr>
 <h2>学生会权益部干事→部长→主席（2017-2020）</h2>
-* 学生代表大会（负责人）
+* 学生代表大会（负责人）<br>
   <img src="/images/daibiao.jpg" alt="sym" style="width: 50%; height: auto;">
-* 舍歌大赛（负责人）
+* 舍歌大赛（负责人）<br>
   <img src="/images/shege.jpg" alt="sym" style="width: 50%; height: auto;">
-* 海棠节（负责人）
+* 海棠节（负责人）<br>
   <img src="/images/haitang.jpg" alt="sym" style="width: 50%; height: auto;">
 * 等等
