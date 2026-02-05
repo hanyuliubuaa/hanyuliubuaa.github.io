@@ -26,3 +26,12 @@ author_profile: true
   * 上好党课<br>
     每两周开展一次学习日活动，除支部书记（本人）讲党课外，还邀请北航研究生宣讲团、东奥志愿者开展专题党课，组织支部成员制作党课。
     <img src="/images/dang8.png" alt="sym" style="width: 50%; height: auto;">
+<hr>
+<h2>学生会权益部干事→部长→主席（2017-2020）</h2>
+* 学生代表大会（负责人）
+  <img src="/images/daibiao.jpg" alt="sym" style="width: 50%; height: auto;">
+* 舍歌大赛（负责人）
+  <img src="/images/shege.jpg" alt="sym" style="width: 50%; height: auto;">
+* 海棠节（负责人）
+  <img src="/images/haitang.jpg" alt="sym" style="width: 50%; height: auto;">
+* 等等
