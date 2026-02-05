@@ -13,3 +13,4 @@ author_profile: true
 <img src="/images/ppt.JPG" alt="sym" style="width: 100%; height: auto;">
 
 <h2>编程（C/Python/Matlab）/h2>
+<img src="/images/code.JPG" alt="sym" style="width: 100%; height: auto;">
