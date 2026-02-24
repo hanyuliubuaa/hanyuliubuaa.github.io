@@ -10,12 +10,12 @@
 main:
   - title: "主页"
     url: /
-    
+
   - title: "学术成果"
     url: /pub/
 
   - title: "项目经历"
-    url: /projects/    
+    url: /pro/    
 
   - title: "荣誉奖励"
     url: /honors/    
