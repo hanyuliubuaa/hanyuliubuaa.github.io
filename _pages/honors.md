@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>国家级</h2>
-<a href="https://mp.weixin.qq.com/s/iaDywl6hpg0hlmBz_ngkkg">国家奖学金</a>（博士生）
+<a href="https://mp.weixin.qq.com/s/iaDywl6hpg0hlmBz_ngkkg">国家奖学金（博士生）</a>
 
 <h2>校级</h2>
 一等奖学金(3次)、潍柴奖学金、LG渤海奖学金<br>
