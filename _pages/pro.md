@@ -25,3 +25,7 @@ author_profile: true
 <h2>5. XX环境无人机协同自主导航技术</h2>
 2022.12-2025.12，空军“十四五”预研，主要完成人
 <img src="/images/pro5.JPG" alt="sym" style="width: 100%; height: auto;">
+
+<h2>6. 协同重力感知自主导航技术</h2>
+2025.1-2025.7，航天一院12所，主要完成人
+<img src="/images/pro6.JPG" alt="sym" style="width: 100%; height: auto;">
