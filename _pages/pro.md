@@ -33,3 +33,7 @@ author_profile: true
 <h2>7. 多轨混合的异轨探测信息融合技术研究</h2>
 2023.3-2024.3，航天一院12所，主要完成人
 <img src="/images/pro7.JPG" alt="sym" style="width: 100%; height: auto;">
+
+<h2>8. 通感一体的异构星座分布式协同计算</h2>
+2023.11-2025.11，航天五院通导部，主要完成人
+<img src="/images/pro8.JPG" alt="sym" style="width: 100%; height: auto;">
