@@ -35,8 +35,12 @@ author_profile: true
 <img src="/images/pro7.JPG" alt="sym" style="width: 100%; height: auto;">
 
 <h2>8. 通感一体的异构星座分布式协同计算</h2>
-2023.11-2025.11，航天五院通导部，主要完成人
+2023.11-2024.11，航天五院通导部，主要完成人
 <img src="/images/pro8.JPG" alt="sym" style="width: 100%; height: auto;">
+
+<h2>9. 异构星群弹性体系架构筹划与评估 </h2>
+2023.11-2024.11，航天五院CAST基金，主要完成人
+<img src="/images/pro9.JPG" alt="sym" style="width: 100%; height: auto;">
 
 <h2>10. 脑皮层神经可塑性 XX 启发的类脑 XX 算法及其应用</h2>
 2024.1-2026.1，军科委XXX工程，主要完成人
