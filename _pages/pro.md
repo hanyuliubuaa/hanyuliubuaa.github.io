@@ -17,3 +17,7 @@ author_profile: true
 <h2>3. 基于数据链相对测量的相对定位技术</h2>
 2025.7-至今，中国航空无线电电子研究所，唯一学生负责人
 <img src="/images/pro3.JPG" alt="sym" style="width: 100%; height: auto;">
+
+<h2>4. 北斗低轨导航增强卫星广播星历研究</h2>
+2022.6-2022.12，中电54所，唯一学生负责人
+<img src="/images/pro4.JPG" alt="sym" style="width: 100%; height: auto;">
