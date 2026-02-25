@@ -38,6 +38,6 @@ author_profile: true
 2023.11-2025.11，航天五院通导部，主要完成人
 <img src="/images/pro8.JPG" alt="sym" style="width: 100%; height: auto;">
 
-<h2>9. 脑皮层神经可塑性 XX 启发的类脑 XX 算法及其应用</h2>
+<h2>10. 脑皮层神经可塑性 XX 启发的类脑 XX 算法及其应用</h2>
 2024.1-2026.1，军科委XXX工程，主要完成人
-<img src="/images/pro9.JPG" alt="sym" style="width: 100%; height: auto;">
+<img src="/images/pro10.JPG" alt="sym" style="width: 100%; height: auto;">
