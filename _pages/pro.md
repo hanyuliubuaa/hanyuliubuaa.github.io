@@ -29,3 +29,7 @@ author_profile: true
 <h2>6. 协同重力感知自主导航技术</h2>
 2025.1-2025.7，航天一院12所，主要完成人
 <img src="/images/pro6.JPG" alt="sym" style="width: 100%; height: auto;">
+
+<h2>7. 多轨混合的异轨探测信息融合技术研究</h2>
+2023.3-2024.3，航天一院12所，主要完成人
+<img src="/images/pro7.JPG" alt="sym" style="width: 100%; height: auto;">
