@@ -85,12 +85,12 @@ redirect_from:
 <ul>
 
 <li>
-📄 <a href="/publications/"><strong>学术成果</strong></a>：
+📄 <a href="/pub/"><strong>学术成果</strong></a>：
 介绍了我发表的论文及专利，展现了我的创新能力、数学功底以及严谨性。
 </li>
 
 <li>
-🛠️ <a href="/projects/"><strong>项目经历</strong></a>：
+🛠️ <a href="/pro/"><strong>项目经历</strong></a>：
 介绍了我负责和参与的 10 个项目，展示了我的工程能力、统筹能力以及报告撰写与成果展示能力。
 </li>
 
